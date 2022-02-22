@@ -7,7 +7,7 @@ let dnuvlednu = 31;
 
 let vysledek = minutvhodine * hodinvedne * dnuvlednu;
 
-console.log('v lednu je celkem' + vysledek);
+console.log('v lednu je celkem ' + vysledek);
 
 let jméno = 'Petra';
 let věk = 34;
@@ -17,7 +17,7 @@ let výška = 1.67;
 let BMI = váha / (výška * výška);
 
 console.log(
-  'jmenuji se ' +
+  'Jmenuji se ' +
     jméno +
     ' , je mi ' +
     věk +
@@ -26,5 +26,8 @@ console.log(
     ' kg, měřím ' +
     výška +
     ' m a moje BMI je ' +
-    BMI
+    BMI +
+    '. '
 );
+
+
