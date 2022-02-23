@@ -1,4 +1,6 @@
-//import './promenne/ukol1.js';
+import './promenne/ukol1.js';
+
+import './promenne/trenink.js';
 
 //vypočti počet minut v celém ledu.
 //vypíš vásledek na konzoli
@@ -25,7 +27,7 @@ let prsi = true;
 //if (vek >) {}
 */
 
-let a = Number(prompt('zadejte A:'));
+/*let a = Number(prompt('zadejte A:'));
 let b = Number(prompt('zadejte B:'));
 let c = Number(prompt('zadejte C:'));
 
@@ -41,4 +43,6 @@ if (a > b) {
   } else {
     console.log('Největší číslo je C:' + c);
   }
-}
+}*/
+
+

@@ -1,4 +1,4 @@
-let jmenoUzivatele = prompt('Jak se jmenuješ?');
+/*let jmenoUzivatele = prompt('Jak se jmenuješ?');
 let vekUzivatele = Number(prompt('Kolik je Ti let?'));
 
 if (vekUzivatele < 18) {
@@ -17,4 +17,6 @@ if (vekUzivatele < 18) {
       vekUzivatele +
       'Už můžete řídit auto'
   );
-}
+}*/
+
+
