@@ -2,6 +2,8 @@ import './promenne/ukol1.js';
 
 import './promenne/trenink.js';
 
+import './cykly/ukol2.js';
+
 //vypočti počet minut v celém ledu.
 //vypíš vásledek na konzoli
 
@@ -44,5 +46,7 @@ if (a > b) {
     console.log('Největší číslo je C:' + c);
   }
 }*/
+
+let cislo 
 
 
