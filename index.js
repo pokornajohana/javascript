@@ -2,7 +2,7 @@ import './promenne/ukol1.js';
 
 import './promenne/trenink.js';
 
-import './cykly/ukol2.js';
+import './cykly/ukol1.js';
 
 //vypočti počet minut v celém ledu.
 //vypíš vásledek na konzoli
@@ -47,6 +47,4 @@ if (a > b) {
   }
 }*/
 
-let cislo 
-
-
+let cislo;
